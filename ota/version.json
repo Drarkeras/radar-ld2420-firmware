@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "bin_url": "https://raw.githubusercontent.com/Drarkeras/radar-ld2420-firmware/main/bin/firmware_v1.0.1.bin",
-  "release_notes": "",
+  "bin_url": "https://raw.githubusercontent.com/Drarkeras/radar-ld2420-firmware/main/firmware/firmware_v1.0.1.bin",
+  "release_notes": "Mejora en el filtro de 3 comprobaciones consecutivas y optimización de memoria NVS.",
   "required_min_version": "1.0.0"
 }
